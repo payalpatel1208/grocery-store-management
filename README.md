@@ -24,7 +24,3 @@ pip install streamlit pandas matplotlib
 ## How to run
  
 streamlit run app.py
-
-## open browser to go
-
-http://localhost:8501/
